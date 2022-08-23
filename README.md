@@ -1,4 +1,6 @@
 # tartanair-shibuya
+Download the dasetset through 
+https://tartanair.blob.core.windows.net/tartanvo/data/TartanAir_shibuya.zip
 
 ### Data directory structure
 ```
