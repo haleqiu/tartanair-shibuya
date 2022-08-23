@@ -47,7 +47,7 @@ disparity = 80.0 / depth
 
 ### RCNN Segmentation image
 
-The segmentation mask are saved as a uint8 array. the shape of the image is equal to the image's shape. The index in the corresponding pixel represent the object category (`0` menas background).
+The segmentation masks are saved as a uint8 array. the shape of the images is equal to the images' shape. The index in the corresponding pixel represent the object category (`0` menas background).
 
 * Load the segmentation image:
 ```

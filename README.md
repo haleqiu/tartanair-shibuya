@@ -2,7 +2,13 @@
 Download the dasetset through 
 https://tartanair.blob.core.windows.net/tartanvo/data/TartanAir_shibuya.zip
 
+### Data type and instruction
+please check:
+[Data Type](data_type.md)
+
 ### Data directory structure
+
+
 ```
 TartanAir_shibuya/
 +-----ENV_NAME_1/          # environment folder
