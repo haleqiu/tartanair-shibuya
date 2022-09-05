@@ -2,6 +2,12 @@
 Download the dasetset through 
 https://tartanair.blob.core.windows.net/tartanvo/data/TartanAir_shibuya.zip
 
+To unzip the file:
+
+```
+tar -xvf TartanAir_shibuya.zip
+```
+
 ### Data type and instruction
 please check:
 [Data Type](data_type.md)
