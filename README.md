@@ -11,6 +11,7 @@ tar -xvf TartanAir_shibuya.zip
 ### Data type and instruction
 please check:
 [Data Type](data_type.md)
+* The confg file is updated [Mar 28 2023]
 
 ### Data directory structure
 
