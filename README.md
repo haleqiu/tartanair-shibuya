@@ -1,6 +1,6 @@
 # tartanair-shibuya
 Download the dasetset through 
-https://tartanair.blob.core.windows.net/tartanvo/data/TartanAir_shibuya.zip
+http://airlab-share.andrew.cmu.edu/tartanair_test/tartanvo/data/TartanAir_shibuya.zip
 
 To unzip the file:
 
