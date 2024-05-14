@@ -2,6 +2,10 @@
 Download the dasetset through 
 http://airlab-share.andrew.cmu.edu/tartanair_test/tartanvo/data/TartanAir_shibuya.zip
 
+OR google drive：
+https://drive.google.com/file/d/1FXsh8ZN-_ngYQQnqloJanSX8bSmq5uJ4/view?usp=sharing
+
+
 To unzip the file:
 
 ```
